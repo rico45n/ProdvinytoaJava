@@ -12,8 +12,9 @@ public class Bankomat {
         Thread.sleep(5000);
         new Employee("Nuric" , lock);
         new Employee("Rico" , lock);
-    }
 
+    }
+    
 }
 
 
